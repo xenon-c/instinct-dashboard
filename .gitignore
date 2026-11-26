@@ -50,3 +50,7 @@ next-env.d.ts
 
 
 !.dev.vars.example
+
+# Supabase CLI local and linked project state
+/supabase/.temp/
+/supabase/.branches/
